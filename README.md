@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+>
+> This repository is a **proof-of-concept**. A more robust successor is in active development.
+>
+> **Performance:** After switching to JPEG encoding and applying several optimizations, full-screen updates reach ~**9 FPS**.
+>
+> **Currently working on:** building and publishing a **Docker image for the server**.
+
+
 # ESP32-RemoteWebView
 
   This is an experimental project that turns an ESP32-powered square LCD panel (e.g., Guition ESP32-S3-4848S040) into a remote web viewer for the Home Assistant dashboard (or any web page).
