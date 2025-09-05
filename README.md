@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
-> This repository is a **proof-of-concept**. A more robust successor is in active development.
+> This repository is a **proof-of-concept**. A more [robust successor](https://github.com/strange-v/RemoteWebViewServer) is in active development.
 >
 > **Performance:** After switching to JPEG encoding and applying several optimizations, full-screen updates reach ~**9 FPS**.
 >
